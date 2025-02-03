@@ -75,7 +75,7 @@ This section defines the setup time required for tool switching on each machine.
 ## **Dataset Usage**
 This dataset is suitable for:
 - Developing and testing scheduling algorithms (e.g., heuristic, metaheuristic, or exact methods).
-- Benchmarking performance for Flexible Job Shop Scheduling Problems (FJSSP).
+- Benchmarking performance for Flexible Job Shop Scheduling Problems (FJSP).
 - Studying the impact of tool switching and setup times on scheduling.
 
 ---
